@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.108ae584b58c8c2cfad93446eb059eee?rik=m5xT1eteQakokA&riu=http%3a%2f%2fapply.emory.edu%2f_includes%2fimages%2fEOA272_Majors-BBA_A_1630x1087.jpg&ehk=vjgGZ%2b6V6BsNjxzABi5q71s3H2coyGSMf5sPUqATvCo%3d&risl=&pid=ImgRaw&r=0");
+}
+.container{
+    height: 200px;
+    width: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+h1{
+    color: aliceblue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h3{
+    color: aliceblue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+input{
+    height: 30px;
+    width: 280px;
+}
+button{
+    width: 60px;
+}
+.li{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
